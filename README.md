@@ -5,7 +5,7 @@
 - :orange_book: I’m focusing on react & vue & node
 - 🌱 my blog https://artdong.github.io/blog
 - 🖋  Writer at [简书](https://www.jianshu.com/u/6c16640d68d2)
-
+- 📫 微信公众号: fullstack008 
 <!--
 **artdong/artdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +28,7 @@ Here are some ideas to get you started:
 - 🖋  Writer at [简书](https://www.jianshu.com/u/6c16640d68d2)
 - ✍️ [Blogger](https://artdong.github.io/blog)
 - 🏃 Interest: Running / playing badminton / Swimming ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artdong&layout=compact)
+
 -->

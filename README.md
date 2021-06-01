@@ -1,5 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=artdong&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=artdong&label=Visits" alt="artdong" />
+</p>
+
 ### Hello👋
 
 - :orange_book: I’m focusing on react & vue & node

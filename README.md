@@ -3,7 +3,7 @@
 ### Hello👋 <img src="https://komarev.com/ghpvc/?username=artdong&label=Visits" alt="artdong" />
 
 - :orange_book: I’m focusing on react & vue & node
-- 🌱 my blog https://artdong.github.io/blog
+- 🌱 my blog https://blog.csdn.net/u010494753?type=blog
 - 🖋  Writer at [简书](https://www.jianshu.com/u/6c16640d68d2)
 - 📫 微信公众号: fullstack008 
 
